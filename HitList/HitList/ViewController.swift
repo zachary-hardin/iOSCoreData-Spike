@@ -31,8 +31,8 @@ class ViewController: UIViewController {
         let cancelAction = UIAlertAction(title: "Cancel", style: .default)
         
         alert.addTextField()
-        alert.addAction(saveAction)
         alert.addAction(cancelAction)
+        alert.addAction(saveAction)
         
         present(alert, animated: true)
     }
