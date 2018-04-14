@@ -1,6 +1,6 @@
 # SPIKING ON iOS CORE DATA 📱🤓
 
-In this repo, I'm following a tutorial published by Ray Wenderlich. Feel free to follow along and try for yourself!
+In this repo, we'll following a tutorial published on Ray Wenderlich's site. Feel free to follow along and try for yourself!
 https://www.raywenderlich.com/173972/getting-started-with-core-data-tutorial-2
 
 ## Notes:
